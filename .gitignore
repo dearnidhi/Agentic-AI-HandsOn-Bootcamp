@@ -14,3 +14,14 @@ __pycache__/
 .ipynb_checkpoints/
 
 merge_videos.py
+
+.env
+.gitignore
+.python-version
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
